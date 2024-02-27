@@ -18,7 +18,7 @@ This is a simple Java Swing application for user registration.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/registration-form.git
+   git clone https://github.com/Grapphic/java_admin_login-Register.git
    
 ## Usage
 
